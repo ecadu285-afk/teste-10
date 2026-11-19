@@ -1,0 +1,19 @@
+# Arquivos locais e credenciais: nunca publicar
+.env
+.env.*
+private/
+**/private/
+**/token.json
+**/config.json
+**/secrets.json
+**/market.json
+**/oauth*.json
+*.log
+relatorio-ofertas.json
+__pycache__/
+
+# Relatorios gerados localmente pela Raven 9.0
+raven90-revisao-fotos.csv
+raven90-relatorio-qualidade.json
+raven90-relatorio-sincronizacao.json
+offers-para-revisao.json

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "notes": "Links HTTPS de videos autorais do YouTube: preencher apenas depois de publicar. Enquanto estiverem vazios, os cartoes mostram Em breve.",
+  "videos": [
+    {
+      "id": "montagem",
+      "title": "Montagem completa do PC",
+      "description": "Etapas de montagem, CPU, RAM, armazenamento, cooler, placa-mãe, fonte e GPU.",
+      "url": ""
+    },
+    {
+      "id": "limpeza",
+      "title": "Limpeza preventiva segura",
+      "description": "Filtros, poeira, ventoinhas, ferramentas adequadas e cuidados importantes.",
+      "url": ""
+    },
+    {
+      "id": "pecas",
+      "title": "Conhecendo as peças e compatibilidade",
+      "description": "Função das peças, soquetes, DDR, conexões, SSDs e fontes.",
+      "url": ""
+    }
+  ]
+}

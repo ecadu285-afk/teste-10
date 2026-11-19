@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /raven-pc-builder/tools/
+Disallow: /raven-pc-builder/supabase/
+Sitemap: https://ecadu285-afk.github.io/raven-pc-builder/sitemap.xml
